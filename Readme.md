@@ -1,4 +1,4 @@
-# React + Vite
+# JavaScript 1000 Problem And Solution.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
